@@ -5,7 +5,7 @@ This program, "kiracMagebloodPls.py", lets the user add cards to a list as well 
 
 Finally, option 4 calculates and counts the total number of each card set and its percentage of occurrence in the total pool of missions. The results are put in the file "kiricStats.txt".
 
-Another method of obtaining the number of card set occurrences is using the bash script “kiracCount.sh”, however, the percentages and cards that are not obtained will not show up on the screen. 
+Another method of obtaining the number of card set occurrences is using the bash script “kiracCount.sh” that will output the results in "occurrences.txt", however, the percentages and cards that are not obtained will not show up on the screen. 
 
 ## Results
 Taken directly from kiricStats.txt:
