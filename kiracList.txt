@@ -1,0 +1,122 @@
+0 Lucky Deck
+1 The Opulent
+2 Lingering Remnants
+3 The Encroaching Darkness
+4 The Journalist
+5 The Journalist
+6 The Opulent
+7 The Opulent
+8 The Blazing Fire
+9 The Blazing Fire
+10 The Trial
+11 Lingering Remnants
+12 The Journalist
+13 The Opulent
+14 The Opulent
+15 The Journalist
+16 The Journalist
+17 The Blazing Fire
+18 The Blazing Fire
+19 The Blazing Fire
+20 The Journalist
+21 The Blazing Fire
+22 The Journalist
+23 The Blazing Fire
+24 The Blazing Fire
+25 The Gambler
+26 The Blazing Fire
+27 The Journalist
+28 The Gambler
+29 The Gambler
+30 The Opulent
+31 The Opulent
+32 The Gambler
+33 The Blazing Fire
+34 The Blazing Fire
+35 The Opulent
+36 The Gambler
+37 The Gambler
+38 The Encroaching Darkness
+39 The Journalist
+40 The Gambler
+41 The Opulent
+42 The Opulent
+43 The Journalist
+44 The Blazing Fire
+45 The Blazing Fire
+46 The Journalist
+47 Lingering Remnants
+48 The Opulent
+49 The Blazing Fire
+50 The Journalist
+51 The Blazing Fire
+52 The Opulent
+53 The Blazing Fire
+54 The Blazing Fire
+55 The Gambler
+56 The Opulent
+57 The Gambler
+58 The Opulent
+59 The Encroaching Darkness
+60 The Blazing Fire
+61 The Journalist
+62 The Journalist
+63 The Opulent
+64 The Gambler
+65 The Opulent
+66 The Journalist
+67 The Gambler
+68 Lingering Remnants
+69 The Gambler
+70 The Opulent
+71 The Opulent
+72 The Journalist
+73 The Gambler
+74 The Blazing Fire
+75 The Blazing Fire
+76 The Blazing Fire
+77 The Journalist
+78 The Blazing Fire
+79 The Blazing Fire
+80 The Journalist
+81 The Opulent
+82 The Opulent
+83 The Blazing Fire
+84 The Gambler
+85 The Encroaching Darkness
+86 The Blazing Fire
+87 The Opulent
+88 The Opulent
+89 The Trial
+90 The Blazing Fire
+91 The Opulent
+92 The Blazing Fire
+93 The Encroaching Darkness
+94 The Blazing Fire
+95 The Opulent
+96 The Journalist
+97 The Journalist
+98 The Journalist
+99 The Journalist
+100 The Opulent
+101 The Blazing Fire
+102 The Blazing Fire
+103 The Gambler
+104 The Opulent
+105 The Gambler
+106 The Opulent
+107 The Gambler
+108 The Blazing Fire
+109 The Journalist
+110 The Blazing Fire
+111 The Journalist
+112 The Opulent
+113 The Gambler
+114 The Gambler
+115 The Journalist
+116 The Blazing Fire
+117 The Opulent
+118 The Blazing Fire
+119 The Journalist
+120 The Opulent
+121 The Journalist
