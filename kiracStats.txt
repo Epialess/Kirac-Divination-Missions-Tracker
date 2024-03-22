@@ -1,0 +1,20 @@
+Card                          # of Sets      Percentage
+Lucky Deck                        1                0.82
+The Opulent                       30              24.59
+Lingering Remnants                4                3.28
+The Encroaching Darkness          5                4.10
+The Journalist                    27              22.13
+The Blazing Fire                  34              27.87
+The Trial                         2                1.64
+The Gambler                       19              15.57
+Her Mask                          0                0.00
+Hope                              0                0.00
+Seven Years Bad Luck              0                0.00
+The Dragon's Heart                0                0.00
+The Enlightened                   0                0.00
+The Life Thief                    0                0.00
+The Lord of Celebration           0                0.00
+The Tinkerer's Table              0                0.00
+The Apothecary                    0                0.00
+
+Total                            122                100
